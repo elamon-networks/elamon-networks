@@ -16,7 +16,7 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elamon-max&show_icons=true&theme=tokyonight&hide_border=true" alt="Elamon-max stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elamon-networks&show_icons=true&theme=tokyonight&hide_border=true" alt="Elamon-max stats" />
 </p>
 
 ---
@@ -24,7 +24,7 @@
 ### 📫 Let's Connect
 
 * **Instagram:** [@elamon_networks_01](https://instagram.com/elamon_networks_01)
-* **GitHub:** [Elamon-max](https://github.com/Elamon-max)
+* **GitHub:** [elamon-networks](https://github.com/Elamon-max)
 * ## Hi there 👋
 
 <!--
